@@ -1,1 +1,1 @@
-module github.com/elumbantoruan/module2
+module github.com/elumbantoruan/testmod/module2
